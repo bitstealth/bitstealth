@@ -1,0 +1,9 @@
+P2P NETWORKING
+
+- list nodes
+- register
+- reload
+
+BITCOIN
+
+- init transaction

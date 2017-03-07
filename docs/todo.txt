@@ -1,0 +1,10 @@
+TODO
+
+- p2p networking
+- set of basic server commands
+- basic coinjoin
+- client
+
+DONE
+
+* first version of server

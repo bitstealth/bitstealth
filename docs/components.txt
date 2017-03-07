@@ -1,0 +1,6 @@
+COMPONENTS
+
+- node
+- client
+- light client
+- electrum plugin

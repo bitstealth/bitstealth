@@ -1,0 +1,5 @@
+bitjoiner 10:n3EvitYjGxt6UyD5SEpzKVprEcvFMLsAJe:120 90:n3EvitYjGxt6UyD5SEpzKVprEcvFMLsAJe:180
+
+bitjoiner n3EvitYjGxt6UyD5SEpzKVprEcvFMLsAJe:120 n3EvitYjGxt6UyD5SEpzKVprEcvFMLsAJe:180
+
+bitjoiner 10:n3EvitYjGxt6UyD5SEpzKVprEcvFMLsAJe 90:n3EvitYjGxt6UyD5SEpzKVprEcvFMLsAJe
